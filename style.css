@@ -132,7 +132,7 @@ main { max-width: 980px; margin: 0 auto; padding: 0 24px; }
 .hero .standard strong { color: var(--ink); }
 
 /* ---- Section ---- */
-section { padding: 44px 0; }
+section { padding: 40px 0; }
 section + section { border-top: 1px solid var(--line); }
 section h2 { font-size: 1.7rem; margin-bottom: 0.6em; }
 .section-lede { color: var(--ink-soft); max-width: 60ch; margin-top: -0.4em; margin-bottom: 1.6em; }
