@@ -262,7 +262,7 @@ section h2 { font-size: 1.7rem; margin-bottom: 0.6em; }
   color: var(--ink-soft);
   max-width: 80ch; /* was 60ch */
   margin-top: -0.4em;
-  margin-bottom: 1.2em;
+  margin-bottom: 1.0em;
 }
 @media (max-width: 600px) {
   section {
