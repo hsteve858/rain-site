@@ -132,6 +132,9 @@ main { max-width: 980px; margin: 0 auto; padding: 0 24px; }
 .hero .standard strong { color: var(--ink); }
 
 /* ---- Rain scene banner ---- */
+.hero + .rain-scene {
+  margin-top: -28px;
+}
 .rain-scene {
   position: relative;
   width: 100%;
