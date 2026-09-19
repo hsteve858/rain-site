@@ -23,6 +23,7 @@ body {
   color: var(--ink);
   font-family: 'Source Sans 3', system-ui, sans-serif;
   font-size: 17px;
+  font-weight: 500;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
 }
