@@ -264,7 +264,13 @@ section h2 { font-size: 1.7rem; margin-bottom: 0.6em; }
   margin-top: -0.4em;
   margin-bottom: 1.2em;
 }
-
+@media (max-width: 600px) {
+  section {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    padding: 16px;
+  }
+}
 /* ---- Toolkit strip ---- */
 .toolkit {
   display: flex;
