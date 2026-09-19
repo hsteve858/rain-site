@@ -339,6 +339,13 @@ section h2 { font-size: 1.7rem; margin-bottom: 0.6em; }
 }
 
 /* ---- Cards / grid ---- */
+.card {
+  display: block;
+  padding: 16px;
+  border: 1px solid var(--border-color, #ddd);
+  border-radius: 8px;
+  background: var(--card-bg, #fff);
+}
 .card-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
