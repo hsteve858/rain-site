@@ -332,9 +332,9 @@ section h2 { font-size: 1.7rem; margin-bottom: 0.6em; }
   border-bottom: 1px solid var(--rain);
   width: fit-content;
 }
-.legend { display: flex; gap: 22px; margin-top: 16px; font-size: 0.85rem; color: var(--ink-soft); }
+.legend { display: flex; gap: 22px; margin-top: 16px; font-size: 0.95rem; color: var(--ink-soft); }
 .legend span { display: inline-flex; align-items: center; gap: 7px; }
-.legend .swatch { width: 12px; height: 12px; display: inline-block; }
+.legend .swatch { width: 14px; height: 14px; display: inline-block; }
 .legend .swatch.in-person { background: var(--rain); }
 .legend .swatch.remote { background: var(--sun); }
 
