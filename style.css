@@ -308,8 +308,8 @@ section h2 { font-size: 1.7rem; margin-bottom: 0.6em; }
   gap: 8px;
   position: relative;
 }
-.day-card.in-person { border-top: 3px solid var(--rain); }
-.day-card.remote { border-top: 3px solid var(--sun); }
+.day-card.in-person { border-top: 5px solid var(--rain); }
+.day-card.remote { border-top: 5px solid var(--sun); }
 .day-num {
   font-family: 'Fraunces', serif;
   font-size: 1.3rem;
