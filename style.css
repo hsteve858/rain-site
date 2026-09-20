@@ -313,7 +313,7 @@ section h2 { font-size: 1.7rem; margin-bottom: 0.6em; }
   position: relative;
 }
 .day-card.in-person { border-top: 4px solid var(--pin); }
-.day-card.remote { border-top: 4px solid var(--sun); }
+.day-card.remote { border-top: 4px solid var(--pik); }
 .day-num {
   font-family: 'Fraunces', serif;
   font-size: 1.3rem;
