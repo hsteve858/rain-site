@@ -296,7 +296,7 @@ section h2 { font-size: 1.7rem; margin-bottom: 0.6em; }
   gap: 10px;
 }
 .day-card {
-  border: 1px solid var(--line);
+  border: 2px solid var(--line);
   background: var(--paper-raised);
   padding: 14px 12px;
   min-height: 148px;
@@ -305,8 +305,8 @@ section h2 { font-size: 1.7rem; margin-bottom: 0.6em; }
   gap: 8px;
   position: relative;
 }
-.day-card.in-person { border-top: 3px solid var(--rain); }
-.day-card.remote { border-top: 3px solid var(--sun); }
+.day-card.in-person { border-top: 4px solid var(--rain); }
+.day-card.remote { border-top: 4px solid var(--sun); }
 .day-num {
   font-family: 'Fraunces', serif;
   font-size: 1.3rem;
