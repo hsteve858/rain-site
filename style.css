@@ -202,7 +202,7 @@ main { max-width: 980px; margin: 0 auto; padding: 0 24px; }
   margin: 0;
 }
 .hero-flex .focus-content {
-  padding-top: 6px;
+  padding-top: 5px;
 }
 .rain-scene {
   position: relative;
