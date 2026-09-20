@@ -6,6 +6,7 @@
   --paper: #EFF3F1;
   --paper-raised: #FFFFFF;
   --rain: #4B7B8C;
+  --pin: #EB7AB0;
   --rain-deep: #335864;
   --sun: #D9A441;
   --soil: #6B5842;
@@ -335,7 +336,7 @@ section h2 { font-size: 1.7rem; margin-bottom: 0.6em; }
 .legend { display: flex; gap: 22px; margin-top: 16px; font-size: 0.95rem; color: var(--ink-soft); }
 .legend span { display: inline-flex; align-items: center; gap: 7px; }
 .legend .swatch { width: 14px; height: 14px; display: inline-block; }
-.legend .swatch.in-person { background: var(--rain); }
+.legend .swatch.in-person { background: var(--pin); }
 .legend .swatch.remote { background: var(--sun); }
 
 @media (max-width: 760px) {
