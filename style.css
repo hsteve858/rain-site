@@ -40,6 +40,11 @@ a { color: var(--rain-deep); text-decoration-thickness: 1px; text-underline-offs
 a:hover { color: var(--sun); }
 a:focus-visible, button:focus-visible { outline: 2px solid var(--rain); outline-offset: 3px; }
 
+hr {
+  border: none;
+  border-top: 1px solid var(--line);
+  margin: 2em 0;
+}
 p { max-width: 68ch; }
 
 /* ---- Site chrome ---- */
